@@ -21,7 +21,7 @@ pip install pandas matplotlib
 
 Para ejecutar el juego, simplemente ejecuta el script en tu terminal:
 ```bash
-python nombre_del_script.py
+python main.py
 ```
 
 ## Modos de juego
