@@ -1,13 +1,10 @@
 # Adivina el número
 
-```markdown
-# Juego de Adivinanza
-
 Este es un juego de adivinanza en Python, donde los jugadores intentan adivinar un número entre 1 y 1000. El juego ofrece dos modos: solitario y 2 jugadores. Las estadísticas de las partidas se guardan en un archivo Excel.
 
 ## Requisitos
 
-- Python 3.x
+- Python 3.12.3
 - Librerías necesarias:
   - `random`
   - `pandas`
